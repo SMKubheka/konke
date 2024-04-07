@@ -33,8 +33,8 @@ class Home extends React.Component{
             <div id="home">
                 <Typist avgTypingDelay={120}>
                     <span className="home-title">
-                        {"hello, "}
-                        <span className="home-name">{"konke"}</span>
+                        {"Hello, "}
+                        <span className="home-name">{"Konke"}</span>
                         {" here."}
                     </span>
                 </Typist>
@@ -47,8 +47,8 @@ class Home extends React.Component{
                         href="mailto:kubhekasm@gmail.com"
                         className="home-contact"
                     >
-                        <EmailRoundedIcon></EmailRoundedIcon>
-                        {" Say hello!"}
+                        <EmailRoundedIcon/>
+                        {" Say hi"}
                     </a>
                 </FadeInSection>
             </div>

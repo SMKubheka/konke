@@ -23,8 +23,7 @@ class About extends React.Component {
             <p>
                 I am currently a <b>Software Development Engineer</b> at
                 <a href="https://www.aboutamazon.com/"> Amazon</a>, working in the AWS
-                sector, under the EC2 Core Platform division. At the same time, I am undertaking a part-time <b>Master's of Science</b> in <b>Computer Science</b> at the 
-                <a href="https://www.wits.ac.za/course-finder/postgraduate/science/msc-dissertation-computer-science/">University of Witwatersrand</a>.
+                sector, under the EC2 Core Platform division. 
             </p>
         );
 
